@@ -16,5 +16,4 @@ Esta é uma landing page responsiva para o próximo filme do Deadpool e Wolverin
 - **Conteúdo Principal**: Título do filme, descrição e botão para assistir ao trailer.
 - **Ícones Sociais**: Links para redes sociais do filme.
 
-## Capturas de Tela
-### Versão Desktop
+
